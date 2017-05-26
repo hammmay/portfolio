@@ -23,7 +23,7 @@ _No known bugs._
 
 _Contact me for any suggestions as this is a freesource code that you are welcome to build upon._
 * _laurahamilton9@gmail.com_
-* _https://github.com/hammmay_
+* _https://github.com/hammmay/portfolio.git_
 
 ## Technologies Used
 
