@@ -4,6 +4,11 @@
   font-family: sans-serif;
 }
 
+.image {
+  width: 45%;
+  float: right
+}
+
 h1 {
   color: black;
   text-align: center;
